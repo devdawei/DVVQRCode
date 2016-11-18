@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 
 s.name         = 'DVVQRCode'
 s.summary      = '根据一串字符串生成一个二维码图片。'
-s.version      = '1.0.0'
+s.version      = '1.0.1'
 s.license      = { :type => 'MIT', :file => 'LICENSE' }
 s.authors      = { 'devdawei' => '2549129899@qq.com' }
 s.homepage     = 'https://github.com/devdawei'
